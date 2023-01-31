@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Full Stack Pleno com 4 anos de experiência em desenvolvimento web. Possuo<br>habilidades em desenvolvimento front-end e back-end, com foco em projetos escaláveis e de alta<br>disponibilidade. Experiência em trabalhar com as principais tecnologias e frameworks do mercado, como<br>Angular, Ruby on Rails, React, Node.js, Express, MongoDB e muito mais. Busco uma oportunidade para<br>desenvolver minhas habilidades e contribuir para o sucesso de uma equipe de desenvolvimento.
+Desenvolvedor Full Stack Pleno com 5 anos de experiência em desenvolvimento web. Possuo<br>habilidades em desenvolvimento front-end e back-end, com foco em projetos escaláveis e de alta<br>disponibilidade. Experiência em trabalhar com as principais tecnologias e frameworks do mercado, como<br>Angular, Ruby on Rails, React, Node.js, Express, MongoDB e muito mais. Busco uma oportunidade para<br>desenvolver minhas habilidades e contribuir para o sucesso de uma equipe de desenvolvimento.
 
 
 ## 🌐 Socials:
